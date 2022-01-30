@@ -1,0 +1,10 @@
+C:\Users\Mali\source\repos\InternProject\bin\Debug\InternProject.exe.config
+C:\Users\Mali\source\repos\InternProject\bin\Debug\InternProject.exe
+C:\Users\Mali\source\repos\InternProject\bin\Debug\InternProject.pdb
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.csproj.AssemblyReference.cache
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.Form1.resources
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.Properties.Resources.resources
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.csproj.GenerateResource.cache
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.csproj.CoreCompileInputs.cache
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.exe
+C:\Users\Mali\source\repos\InternProject\obj\Debug\InternProject.pdb
